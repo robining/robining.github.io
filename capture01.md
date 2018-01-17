@@ -1,4 +1,4 @@
-# AndroidStudio 使用SS代理
+# AndroidStudio 使用SS代理访问google()仓库
 
 ###### 一、在本机运行Shadowsocks，确保能够科学上网
 ###### 二、在AndroidStudio中作如下设置
