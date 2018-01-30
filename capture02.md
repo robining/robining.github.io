@@ -1,4 +1,6 @@
-# layout\activity_pager.xml
+<a href="../resources/videos/SVID_20180130_142339.mp4">dasa</a>
+
+layout\activity_pager.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
