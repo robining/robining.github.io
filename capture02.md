@@ -1,4 +1,4 @@
-<a href="../resources/videos/SVID_20180130_142339.mp4">dasa</a>
+ <video src="https://github.com/robining/robining.github.io/blob/master/resources/videos/SVID_20180130_142339.mp4" controls width="400px" heigt="400px"></video> 
 
 layout\activity_pager.xml
 ```
